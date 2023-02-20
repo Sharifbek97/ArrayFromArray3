@@ -1,0 +1,15 @@
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/bin/Debug/net6.0/SumMatrix
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/bin/Debug/net6.0/SumMatrix.deps.json
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/bin/Debug/net6.0/SumMatrix.runtimeconfig.json
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/bin/Debug/net6.0/SumMatrix.dll
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/bin/Debug/net6.0/SumMatrix.pdb
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/SumMatrix.csproj.AssemblyReference.cache
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/SumMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/SumMatrix.AssemblyInfoInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/SumMatrix.AssemblyInfo.cs
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/SumMatrix.csproj.CoreCompileInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/SumMatrix.dll
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/refint/SumMatrix.dll
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/SumMatrix.pdb
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/SumMatrix.genruntimeconfig.cache
+/Users/amirbekmirzozoda/RiderProjects/SumMatrix/SumMatrix/obj/Debug/net6.0/ref/SumMatrix.dll
